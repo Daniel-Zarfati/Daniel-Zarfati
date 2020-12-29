@@ -6,6 +6,6 @@
 - 💼 I’m currently studing Computer Science 
 - 📫 How to reach me: Zarfati@gmail.com
 
-https://github.com/Daisyliu6/Daisyliu6/blob/master/me.gif
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 
 -->
